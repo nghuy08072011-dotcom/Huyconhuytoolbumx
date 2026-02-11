@@ -4,7 +4,7 @@ from sys import platform
 from datetime import datetime, timedelta
 from time import sleep
 
-LINK_LAY_KEY = "ghi  keyvip" 
+LINK_LAY_KEY = "liên hệ telegram @huyconhuy để lấy key " 
 SECRET_CODE = "0807" 
 
 den = '\x1b[1;90m'
@@ -50,7 +50,13 @@ def generate_key(ip_address):
     return key_final
 
 banners = f"""
-huy
+##     ## ##     ## ##    ##     ######   #######  ##    ##    
+##     ## ##     ##  ##  ##     ##    ## ##     ## ###   ##    
+##     ## ##     ##   ####      ##       ##     ## ####  ##    
+######### ##     ##    ##       ##       ##     ## ## ## ##    
+##     ## ##     ##    ##       ##       ##     ## ##  ####    
+##     ## ##     ##    ##       ##    ## ##     ## ##   ###    
+##     ##  #######     ##        ######   #######  ##    ##    
                                                    
 =========================================================================
 """
