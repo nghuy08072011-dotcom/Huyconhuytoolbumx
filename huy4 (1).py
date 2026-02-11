@@ -4,7 +4,7 @@ from sys import platform
 from datetime import datetime, timedelta
 from time import sleep
 
-LINK_LAY_KEY = "liên hệ số 0326111431 để lấy key free " 
+LINK_LAY_KEY = "liên hệ số ZALO 0326111431 để lấy key free " 
 SECRET_CODE = "0807" 
 
 den = '\x1b[1;90m'
