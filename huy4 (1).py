@@ -4,7 +4,7 @@ from sys import platform
 from datetime import datetime, timedelta
 from time import sleep
 
-LINK_LAY_KEY = "liên hệ số ZALO 0326111431 để lấy key free " 
+LINK_LAY_KEY = " ghi keyvip để vào tool nhé đại ca  " 
 SECRET_CODE = "0807" 
 
 den = '\x1b[1;90m'
@@ -123,7 +123,7 @@ while True:
 
     try:
         link_map = {
-            "1": "https://raw.githubusercontent.com/nghuy08072011-dotcom/Huyconhuytoolbumx/refs/heads/main/2%20(2).py",
+            "1": "https://raw.githubusercontent.com/nghuy08072011-dotcom/Huyconhuytoolbumx/refs/heads/main/2vth%20(1).py",
             "2": "https://raw.githubusercontent.com/nghuy08072011-dotcom/Huyconhuytoolbumx/refs/heads/main/1vtd%20(1).py",
             "3": "https://raw.githubusercontent.com/nghuy08072011-dotcom/Huyconhuytoolbumx/refs/heads/main/1code%20(3).py",
             "4": "https://raw.githubusercontent.com/nghuy08072011-dotcom/Huyconhuytoolbumx/refs/heads/main/lotto1.py",
